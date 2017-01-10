@@ -1,10 +1,5 @@
 /*
-Thomas Sanchez Lengeling.
- http://codigogenerativo.com/
-
- KinectPV2, Kinect for Windows v2 library for processing
-
- Skeleton depth tracking example
+Anand Antony
  */
 
 import java.util.ArrayList;
